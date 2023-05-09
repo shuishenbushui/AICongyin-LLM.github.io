@@ -29,3 +29,11 @@ $
 \end{Bmatrix}
 $
 
+$$
+\begin{CD}
+   A @>a>> B \\
+@VbVV @AAcA \\
+   C @= D
+\end{CD}
+$$
+
