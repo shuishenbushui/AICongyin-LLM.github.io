@@ -22,3 +22,10 @@ $$
 \end{Bmatrix}
 $$
 
+$
+\begin{Bmatrix}
+   a & b \\
+   c & d
+\end{Bmatrix}
+$
+
