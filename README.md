@@ -22,12 +22,10 @@ $$
 \end{Bmatrix}
 $$
 
-$
-\begin{Bmatrix}
+$\begin{Bmatrix}
    a & b \\
    c & d
-\end{Bmatrix}
-$
+\end{Bmatrix}$
 
 $$
 \begin{CD}
