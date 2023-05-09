@@ -14,12 +14,12 @@ dfsdfasjk
 **发士大夫**
 \*\*fsdfds\*\*
 
-$$
+$
 \begin{Bmatrix}
    a & b \\
    c & d
 \end{Bmatrix}
-$$
+$
 $
 \begin{Bmatrix}
    a & b \\
