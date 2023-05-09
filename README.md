@@ -22,10 +22,7 @@ $$
 \end{Bmatrix}
 $$
 
-$\begin{Bmatrix}
-   a & b \\
-   c & d
-\end{Bmatrix}$
+$a-b$
 
 $$
 \begin{CD}
