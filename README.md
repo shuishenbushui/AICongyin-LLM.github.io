@@ -2,7 +2,7 @@
 AGI LLM 调研资料汇总
 
 5.7 周7 及之前
-# 1、ChatGPT 调研报告（仅供内部参考）  哈尔滨工业大学自然语言处理研究所（HIT-NLP）2023年3月6日
+> 1、ChatGPT 调研报告（仅供内部参考）  哈尔滨工业大学自然语言处理研究所（HIT-NLP）2023年3月6日
 # 2、Open Chat Video Editor：开源的短视频生成和编辑工具，Python 在线聊天视频编辑器，能实现快速将聊天记录转换为视频格式，支持自定义主题风格和配乐，并能输出多种视频格式。包含了丰富的 API 和示例代码，方便开发者进行二次开发和集成: github.com/SCUTlihaoyu/open-chat-video-editor
 3、ChatZoo：对话语言模型横向对比工具。可以将自有模型或者来自 🤗huggingface 的模型轻松部署到网页中。ChatZoo 还可以将一句提示同时发送到多个模型中进行回答生成，方便地对比模型效果： github.com/OpenLMLab/ChatZoo
 4、VardaGPT：在GPT-2模型基础上添加了一种称为关联记忆(associative memory)的机制。关联记忆可以使模型在处理文本时更好地捕捉上下文信息。: github.com/ixaxaar/VardaGPT
