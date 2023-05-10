@@ -41,3 +41,5 @@ AGI LLM 调研资料汇总
 * 3、InfiniteGPT：一个Python脚本，允许您向OpenAI API输入无限大小的文本，从而消除了在使用大量文本输入或将无尽的文本块复制粘贴到chatGPT时重新提示的需求: github.com/emmethalm/infiniteGPT。
 * 4、PaLM的开源复现。已训练了三种不同大小的PaLM模型（150m，410m，1b），并且还在训练一个2b模型: github.com/conceptofmind/PaLM
 * 5、HugNLP：基于Hugging Face Transformer的统一和全面的自然语言处理(NLP)库，旨在提高NLP研究人员的便利性和有效性。该库提供了如BERT、RoBERTa、GPT-2等流行的transformer-based模型，以及一种名为KP-PLM的知识增强预训练范式。HugNLP还实现了一些针对特定任务的模型，包括序列分类、匹配、标注、span提取、多选择和文本生成。此外，该库还支持少样本学习环境，提供了一个原型网络，用于少样本文本分类和命名实体识别(NER)。: github.com/HugAILab/HugNLP
+* 6、DB-GPT：基于vicuna-13b和FastChat的开源实验项目，采用了langchain和llama-index技术进行上下文学习和问答。项目完全本地化部署，保证数据的隐私安全，能直接连接到私有数据库处理私有数据。其功能包括SQL生成、SQL诊断、数据库知识问答等: github.com/csunny/DB-GPT
+* 7、SmartGPT：旨在为大型语言模型(尤其是GPT-3.5和GPT-4)提供完成复杂任务的能力，通过将它们分解成更小的问题，并使用互联网和其他外部来源收集信息。特点包括模块化设计，易于配置，以及对插件的高度支持。SmartGPT的运作基于"Autos"的概念，包括"Runner"和"Assistant"两种类型，都配有处理计划、推理和任务执行的LLM代理。此外，SmartGPT还具有内存管理系统，以及可以定义各种命令的插件系统: github.com/Cormanz/smartgpt
