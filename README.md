@@ -49,3 +49,5 @@ AGI LLM 调研资料汇总
 
 # 5.12 周5
 * 1、CAMEL: 从LLaMA衍生并适应临床的模型。CAMEL基于LLaMA进行进一步的微调，使用了MIMIC-III和MIMIC-IV的临床病例，并在临床指导上进行微调: github.com/starmpcc/CAMEL
+* 2、Shap-E: OpenAI发布的全新隐式text-to-3D模型，速度快，但是生成性能略有不足：
+* 
