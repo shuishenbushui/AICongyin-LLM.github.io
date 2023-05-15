@@ -49,5 +49,25 @@ AGI LLM 调研资料汇总
 
 # 5.12 周5
 * 1、CAMEL: 从LLaMA衍生并适应临床的模型。CAMEL基于LLaMA进行进一步的微调，使用了MIMIC-III和MIMIC-IV的临床病例，并在临床指导上进行微调: github.com/starmpcc/CAMEL
-* 2、Shap-E: OpenAI发布的全新隐式text-to-3D模型，速度快，但是生成性能略有不足：
-* 
+* 2、Shap-E: OpenAI发布的全新隐式text-to-3D模型，速度快，但是生成性能略有不足。论文链接：https://arxiv.org/pdf/2305.02463.pdf 代码链接：https://github.com/openai/shap-e
+* 3、《语言模型可以解释语言模型中的神经元》（Language models can explain neurons in language models），OpenAI在官网发布了的博文，用GPT-4解释GPT-2的行为。论文地址：https://openaipublic.blob.core.windows.net/neuron-explainer/paper/index.html#sec-intro
+* 4、chinese-StableVicuna，全球首个StableVicuna中文优化版，全球首发最强开源中文GPT模型。StableVicuna基于Vicuna-13B模型实现，是全球首个基于--RLHF人类反馈训练--的开源LLM模型，被业界视为：是自ChatGPT推出以来的第二个里程碑。代码链接：https://github.com/ziwang-com/chinese-StableVicuna.git
+* 5、BMTools BMTools是一个开源存储库，使用工具扩展语言模型，并作为社区构建和共享工具的平台。在这个存储库中，您可以（1）通过编写python函数轻松构建插件（2）使用外部ChatGPT插件。该项目的灵感来自开源项目LangChain，并针对ChatGPT插件等开源工具的使用进行了优化，努力实现ChatGPT Plugins的开源学术版。代码链接：https://github.com/OpenBMB/BMTools
+
+# 5.13 周6
+* 1、starcoder：BigCode社区推出了StarCoder和StarCoderBase，它们是具有155亿参数和8K上下文长度的模型，具备填充功能，并且通过多查询注意力实现了快速的大批量推理。论文链接：https://arxiv.org/pdf/2305.06161.pdf
+* 2、A Survey of Large Language Models，大语言模型综述，论文链接：https://arxiv.org/pdf/2303.18223.pdf
+
+# 5.14 周7
+* 1、Introduction to Generative AI，【生成式人工智能入门】，视频链接：https://www.youtube.com/watch?v=G2fqAlgmoPo
+* 2、大语言模型（LLM）微调技术笔记。https://github.com/ninehills/ninehills.github.io/issues/92
+* 3、tokenmonster能在给定文本数据集、词汇量大小和最大词汇长度的情况下，选择在该词汇量大小下最优化表示数据集的词汇。:github.com/alasdairforsythe/tokenmonster
+* 4、datasetgan 是如何生成有标签的数据集的？DatasetGAN 是 UC Berkeley 计算机科学与人工智能实验室 (BAIR) 提出的一种算法，用于生成有标签的数据集，基于生成对抗网络 (GAN) 技术，可以生成高质量的有标签样本，以解决现有数据集较小或有限的问题。 具体来说，DatasetGAN 的生成过程包括以下步骤： 1. 利用无标签的原始数据集训练 GAN 模型。该步骤旨在学习原始数据集的生成分布。GAN 模型由生成器和判别器两部分组成。生成器被训练为生成与原始数据集分布相似的数据。判别器被训练为区分原始数据集和生成数据集之间的区别。 2. 利用生成器生成一部分伪造数据集。生成器通过学习原始数据集的分布，尝试生成具有类似特征的伪造数据集。 3. 利用人工标注对伪造数据集进行分类标记。这是指利用数据集中某些数据的真实标签信息，手动标注伪造数据集，以使其具有分类标记。 4. 利用有标签样本和无标签伪造数据去微调训练模型。除了原始的有标签样本之外，还有一个包含有标签和无标签数据的数学集。有标签的数据用于模型的精细分类，无标签的伪造数据则被用来增加数据集和模型的泛化能力。 5. 利用微调后的模型，对伪造数据集进行再次筛选，去除一些错误标签的样本，以获得更高质量的有标签数据集。 通过DatasetGAN生成的有标签数据集，可以提高深度学习和人工智能模型的溯源过程，同时还可以促进更广泛的科学门类、域和任务上的机器学习研究和应用。官网链接：https://nv-tlabs.github.io/datasetGAN/ 论文链接：https://arxiv.org/pdf/2104.06490.pdf 代码链接：https://github.com/nv-tlabs/datasetGAN_release
+* 5、ChatGPT插件开发。笔记链接：https://techdiylife.github.io/ChatGPT-programming-handbook/contents/chat-plugins-overview.html
+
+# 5.15 周1
+* 1、【2023新书】生成深度学习：教机器绘画、写作、作曲和游戏 第二版，453页pdf 资料链接：https://mp.weixin.qq.com/s/GXqUFKGp0ySmTfTzpwsFMw
+
+
+
+
