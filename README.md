@@ -81,6 +81,8 @@ AI 服务市场：https://www.aichain.store/ \
 
 # 5.17 周3
 * 1、Salesforce发布新模型InstructBLIP，基于BLIP2使用指令微调 \
+华人团队开源指令精调的InstructBLIP多模态大模型，横扫多项SOTA，看图&推理&问答&对话样样通！\
+CVHub文章链接：https://mp.weixin.qq.com/s/XezIEmnFzVWbt4ZUt-3dmw \
 论文地址：arxiv.org/abs/2305.06500 \
 代码地址：github.com/salesforce/LAVIS/tree/main/projects/instructblip
 * 2、Plan-and-Solve Prompting，一个新的Prompt，可以帮助大语言模型求解复杂的问题。之前，用Let's think step by step可以触发LLM产生链式思考，提升解决问题的准确度，现在用这个新的办法，可以进一步提升LLM准确度。\
