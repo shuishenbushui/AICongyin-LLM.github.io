@@ -109,3 +109,34 @@ https://magazine.sebastianraschka.com/p/ahead-of-ai-8-the-latest-open-source
 * 2、大模型如何端边部署？华盛顿大学Google提出《逐步蒸馏》法，以更少的训练数据和更小的模型规模超越更大的语言模型 \
 专知文章链接：https://mp.weixin.qq.com/s/yKyGJczqfvXsT0GXhcfuPQ \
 论文链接：https://www.zhuanzhi.ai/paper/fa04cb640eb5b7dd65cddc946c76b80f
+* 3、图文理解能力强大！多模态对话生成模型：mPLUG-Owl，已开源！\
+文章链接：https://mp.weixin.qq.com/s/tQYV54g6aMJxogmI3MzmiA \
+论文链接：https://arxiv.org/abs/2304.14178 \
+项目链接：https://github.com/X-PLUG/mPLUG-Owl \
+在线demo：https://modelscope.cn/studios/damo/mPLUG-Owl/summary \
+* 4、中科院发布多模态 ChatGPT，图片、语言、视频都可以 Chat ？中文多模态大模型力作 \
+文章链接：https://mp.weixin.qq.com/s/RqiJvhH4sdtHBVIDZXmu5Q
+论文题目：X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages \
+论文链接：https://arxiv.org/pdf/2305.04160.pdf \
+项目主页：https://x-llm.github.io/ 
+* 5、Transformers Agent，全球最火的AI社区HuggingFace官方出品「Transformers Agent」，通过控制10万多个AI，也能实现魔法。在HuggingGPT的基础上的进一步的工作 \
+文章链接：https://mp.weixin.qq.com/s/YY0ecZAsytEDUXMyj9NK4g
+参考资料：\
+https://twitter.com/huggingface/status/1656334778407297027 \
+https://huggingface.co/docs/transformers/transformers_agents
+* 6、【CMU博士论文】弥合人类视觉与计算机视觉之间的鸿沟,144页pdf
+文章链接：https://mp.weixin.qq.com/s/KqAJds7F7C4fxgmJxSh7MA
+* 7、OpenAI用GPT-4解释了GPT-2三十万个神经元 \
+相关文章链接：\
+https://mp.weixin.qq.com/s/aBbDW_PA-5ze5WMg1lsgQQ \
+https://mp.weixin.qq.com/s/pKP1pRenwcQMByFJyiuRKQ
+* 8、能看图、会聊天，还会跨模态推理和定位，能落地复杂场景的DetGPT来了，港科大LMFlow团队 & 港大NLP实验室 \
+文章链接：https://mp.weixin.qq.com/s/elVSpp_pQKp_XCgWLmhwRQ \
+开源代码：https://github.com/OptimalScale/DetGPT \
+Demo 在线试玩：https://detgpt.github.io/ 
+* 9、MathGPT来了！专攻数学大模型，解题讲题两手抓，学而思自研数学大模型MathGPT \
+文章链接：https://mp.weixin.qq.com/s/RUnJ2T9BueDnDCu91m8uPQ \
+* 10、大模型“涌现能力” ？！斯坦福最新研究：别迷信，这是度量选择的结果 \
+文章链接：https://mp.weixin.qq.com/s/9LMB5HXmXU3dbqaMZfmG1Q \
+论文：https://arxiv.org/pdf/2304.15004.pdf
+
