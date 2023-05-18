@@ -139,4 +139,6 @@ Demo 在线试玩：https://detgpt.github.io/
 * 10、大模型“涌现能力” ？！斯坦福最新研究：别迷信，这是度量选择的结果 \
 文章链接：https://mp.weixin.qq.com/s/9LMB5HXmXU3dbqaMZfmG1Q \
 论文：https://arxiv.org/pdf/2304.15004.pdf
-
+* 11、ACT-1: Transformer for Actions 通用AI助手 \
+文章链接：https://zhuanlan.zhihu.com/p/565025337 \
+官网：https://www.adept.ai/blog/act-1 
