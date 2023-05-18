@@ -67,7 +67,14 @@ AGI LLM 调研资料汇总
 
 # 5.15 周1
 * 1、【2023新书】生成深度学习：教机器绘画、写作、作曲和游戏 第二版，453页pdf 资料链接：https://mp.weixin.qq.com/s/GXqUFKGp0ySmTfTzpwsFMw
+* 2、Chat2Plot：交互式且安全的文本到可视化库，使用LLM来生成可视化图表、高级图表规格(以json格式: github.com/nyanp/chat2plot
 
+# 5.16 周2
+* 1、Prompt Sapper：基础模型的灵魂伴侣，AI服务的创新工场\
+* 项目链接: https://github.com/AI4FutureSE  \
+AI 链主网站: https://www.aichain.online/ \
+Sapper IDE:  https://www.promptsapper.tech/ \
+AI 服务市场：https://www.aichain.store/ \
 
 
 
