@@ -45,7 +45,9 @@ AGI LLM 调研资料汇总
 * 7、SmartGPT：旨在为大型语言模型(尤其是GPT-3.5和GPT-4)提供完成复杂任务的能力，通过将它们分解成更小的问题，并使用互联网和其他外部来源收集信息。特点包括模块化设计，易于配置，以及对插件的高度支持。SmartGPT的运作基于"Autos"的概念，包括"Runner"和"Assistant"两种类型，都配有处理计划、推理和任务执行的LLM代理。此外，SmartGPT还具有内存管理系统，以及可以定义各种命令的插件系统: github.com/Cormanz/smartgpt
 
 # 5.11 周4
-* 1、ImageBind，模型可以横跨 6 种不同的模态（图像、文本、音频、深度、温度和 IMU 数据）进行联动交流：https://github.com/facebookresearch/ImageBind
+* 1、ImageBind，模型可以横跨 6 种不同的模态（图像、文本、音频、深度、温度和 IMU 数据）进行联动交流：https://github.com/facebookresearch/ImageBind \
+论文地址：dl.fbaipublicfiles.com/imagebind/imagebind_final.pdf \
+项目地址：github.com/facebookresearch/ImageBind \
 
 # 5.12 周5
 * 1、CAMEL: 从LLaMA衍生并适应临床的模型。CAMEL基于LLaMA进行进一步的微调，使用了MIMIC-III和MIMIC-IV的临床病例，并在临床指导上进行微调: github.com/starmpcc/CAMEL
@@ -71,10 +73,37 @@ AGI LLM 调研资料汇总
 
 # 5.16 周2
 * 1、Prompt Sapper：基础模型的灵魂伴侣，AI服务的创新工场\
-* 项目链接: https://github.com/AI4FutureSE  \
+澳大利亚 Data61 的 SE4AI 团队和江西师范大学智能化软件工程实验室联合打造全球首款 AI 链（AI chain）无代码生产平台 Prompt Sapper，及相应的方法学和 AI 服务市场。基础模型（foundation models）带来了前所未有的 AI “操作系统” 效应和全新的人工智能交互方式，激发了 AI 服务开发与应用的创新之潮。
+项目链接: https://github.com/AI4FutureSE  \
 AI 链主网站: https://www.aichain.online/ \
 Sapper IDE:  https://www.promptsapper.tech/ \
 AI 服务市场：https://www.aichain.store/ \
 
+# 5.17 周3
+* 1、Salesforce发布新模型InstructBLIP，基于BLIP2使用指令微调 \
+论文地址：arxiv.org/abs/2305.06500 \
+代码地址：github.com/salesforce/LAVIS/tree/main/projects/instructblip
+* 2、Plan-and-Solve Prompting，一个新的Prompt，可以帮助大语言模型求解复杂的问题。之前，用Let's think step by step可以触发LLM产生链式思考，提升解决问题的准确度，现在用这个新的办法，可以进一步提升LLM准确度。\
+论文地址：arxiv.org/abs/2305.04091
+* 3、外行也能看懂的大语言模型结构对比！\
+https://mp.weixin.qq.com/s/Ja6eUSpzQuifJld1QVIfOA
+* 4、DeepMind 近日发布了一个新型数据集，包含大量不同类型的数学问题（练习题级别），旨在考察模型的数学学习和代数推理能力。\
+数据集地址：https://github.com/deepmind/mathematics_dataset \
+目前该数据集发布了 1.0 版，其每个模块包含 200 万（问题答案）
+* 5、大语言模型数据集整理  https://opendatalab.org.cn
+* 6、因果推理与大语言模型：开辟因果关系的新前沿 \
+集智俱乐部文章链接：https://mp.weixin.qq.com/s/nvREvjYW1dEcqDrTo6b9zQ \
+论文题目：Causal Reasoning and Large Language Models: Opening a New Frontier for Causality \
+论文链接：https://arxiv.org/abs/2305.00050 \
+文章题目：On the unreasonable effectiveness of LLMs for causal inference \
+文章链接：https://threadreaderapp.com/thread/1653457971844874240.html 
+* 7、SuperICL: In this paper, we propose Super In-Context Learning (SuperICL) which allows black-box LLMs to work with locally fine-tuned smaller models, resulting in superior performance on supervised tasks. Our experiments demonstrate that SuperICL can improve performance beyond state-of-the-art fine-tuned models while ad- dressing the instability problem of in-context learning. Furthermore, SuperICL can enhance the capabilities of smaller models, such as multilinguality and interpretability. \
+paper url:https://arxiv.org/pdf/2305.08848v1.pdf \
+code url:https://github.com/JetRunner/SuperICL
 
-
+# 5.18 周4
+* 1、Ahead of AI: The Latest Open Source LLMs and Datasets \
+https://magazine.sebastianraschka.com/p/ahead-of-ai-8-the-latest-open-source
+* 2、大模型如何端边部署？华盛顿大学Google提出《逐步蒸馏》法，以更少的训练数据和更小的模型规模超越更大的语言模型 \
+专知文章链接：https://mp.weixin.qq.com/s/yKyGJczqfvXsT0GXhcfuPQ \
+论文链接：https://www.zhuanzhi.ai/paper/fa04cb640eb5b7dd65cddc946c76b80f
