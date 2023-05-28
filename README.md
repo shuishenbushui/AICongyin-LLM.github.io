@@ -114,6 +114,7 @@ https://magazine.sebastianraschka.com/p/ahead-of-ai-8-the-latest-open-source
 论文链接：https://arxiv.org/abs/2304.14178 \
 项目链接：https://github.com/X-PLUG/mPLUG-Owl \
 在线demo：https://modelscope.cn/studios/damo/mPLUG-Owl/summary \
+达摩院猫头鹰mPLUG-Owl亮相：模块化多模态大模型，追赶GPT-4多模态能 https://mp.weixin.qq.com/s/otq9tpmGu3UXEWOYSHTvnA
 * 4、中科院发布多模态 ChatGPT，图片、语言、视频都可以 Chat ？中文多模态大模型力作 \
 文章链接：https://mp.weixin.qq.com/s/RqiJvhH4sdtHBVIDZXmu5Q
 论文题目：X-LLM: Bootstrapping Advanced Large Language Models by Treating Multi-Modalities as Foreign Languages \
@@ -160,6 +161,7 @@ AutoML-GPT 通过最大限度地利用其强大的 NLP 能力和现有的人工�
 Demo page: https://0nutation.github.io/SpeechGPT.github.io/ \
 Paper: https://arxiv.org/abs/2305.11000 \
 Github: https://github.com/0nutation/SpeechGPT/tree/main \
+为多模态LLM指明方向，邱锡鹏团队提出具有内生跨模态能力的SpeechGPT https://mp.weixin.qq.com/s/KpdOUdeYSVzrBtfuqFbjaQ
 * 4、DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining \
 * 5、谷歌PaLM 2细节曝光：3.6万亿token，3400亿参数 文章链接：https://mp.weixin.qq.com/s/xAhbvd1zo4v91XX3Mrh9jA
 * 6、解释大语言模型：在 Alpaca 中识别因果机制 \
@@ -178,15 +180,32 @@ https://mp.weixin.qq.com/s/j8vw9sAdG_Vfh-i0SN9p6Q
 https://mp.weixin.qq.com/s/RTJndbXsVewHUNtj6T189Q
 * 6、大模型阅读笔记：ChatGLM-6B模型结构组件源码阅读 \
 https://mp.weixin.qq.com/s/bEBrWooUU2MuMt8DwzsDKQ
+* 7、ICLR2023高分论文 | ACT:2D视觉或语言 Foundation Model可以帮助3D表征学习吗? https://mp.weixin.qq.com/s/y2GcwqHug5EB2jlwnlxKTA
+Title: Autoencoders as Cross-Modal Teachers: Can Pretrained 2D Image Transformers Help 3D Representation Learning?
+Paper: https://arxiv.org/abs/2212.08320
+Code: https://github.com/RunpeiDong/ACT
 
 # 5.21 周7
 * 1、5月20日，马克斯普朗克研究、麻省理工计算机与AI实验室、via-center、宾夕法尼亚大学和谷歌等联合发布了一篇名为《Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold》的论文。根据其Github主页显示，预计6月进行开源。该论文提出了一种控制GAN的新方法 DragGAN，使用户能以无损的方式拖动几下鼠标就能改变图像形态。例如，将一张严肃的脸，拖动几下鼠标就能变成微笑的形态；将一匹站立的马，更改成奔跑形态等。Github地址：https://github.com/XingangPan/DragGAN项目展示：https://vcai.mpi-inf.mpg.de/projects/DragGAN/论文地址：https://arxiv.org/abs/2305.10973
 
 # 5.22 周1
 * 1、Plug and Plai：简化将AI插件集成到开源语言模型(LLMs)的开源库，提供实用函数来从plugnplai.com目录获取插件列表，获取插件清单，提取OpenAPI规范并加载插件: github.com/edreisMD/plugnplai
+* 2、吴恩达 x OpenAI Prompt Engineering教程中文笔记  https://mp.weixin.qq.com/s/LNPm5dk9pqN7dsx6MFDbTA、
+* 3、强过AutoGPT！微软重磅研究提出APO算法，「自动提示」淘汰提示工程师 https://mp.weixin.qq.com/s/Ryy7Yg2S3gCp11g7HMBuWw \
+《Automatic Prompt Optimization with "Gradient Descent" and Beam Search》 \
+论文地址：https://arxiv.org/pdf/2305.03495.pdf
+* 4、Meta最新模型：LIMA-65B，没有RLHF，模型效果远胜Alpaca！！ https://mp.weixin.qq.com/s/cA6HoPsLhPdQ_ntlL2MKDw \
+《LIMA:Less Is More for Alignment》 \
+论文：https://arxiv.org/pdf/2305.11206.pdf
+* 5、有证据了，MIT表明：大型语言模型≠随机鹦鹉，确实能学到语义 https://mp.weixin.qq.com/s/sx5FsFZBrXaWOqbtJUPvIQ \
+《Evidence of Meaning in Language Models Trained on Programs》 \
+论文地址：https://paperswithcode.com/paper/evidence-of-meaning-in-language-models
 
 # 5.23 周2
 * 1、大模型与联邦学习 《Towards Building the Federated GPT: Federated Instruction Tuning》论文
+* 2、思维树ToT: GPT-4推理提升1750%！普林斯顿清华姚班校友提出全新「思维树ToT」框架，让LLM反复思考 https://mp.weixin.qq.com/s/1SswD6i6lGxKAvU-pzz-6A
+论文地址：https://arxiv.org/abs/2305.10601 \
+项目地址：https://github.com/kyegomez/tree-of-thoughts
 
 # 5.24 周3
 * 1、斯坦福transformer课程 https://web.stanford.edu/class/cs25/
