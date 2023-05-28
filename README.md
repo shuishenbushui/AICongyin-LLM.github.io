@@ -206,14 +206,28 @@ Code: https://github.com/RunpeiDong/ACT
 * 2、思维树ToT: GPT-4推理提升1750%！普林斯顿清华姚班校友提出全新「思维树ToT」框架，让LLM反复思考 https://mp.weixin.qq.com/s/1SswD6i6lGxKAvU-pzz-6A
 论文地址：https://arxiv.org/abs/2305.10601 \
 项目地址：https://github.com/kyegomez/tree-of-thoughts
+* 3、多模态KG如何持续学习？浙大等提出首个《持续多模态知识图谱构建》框架 https://mp.weixin.qq.com/s/jwU3Mtdn_2foM65kXRZmaA
 
 # 5.24 周3
 * 1、斯坦福transformer课程 https://web.stanford.edu/class/cs25/
 * 2、https://github.com/w-okada/voice-changer 实时变声器
 * 3、启真医学大模型：利用启真医学知识库构建的中文医学指令数据集，并基于此在LLaMA-7B模型上进行指令精调：An Open Source Chinese Medical Large Language Model' CMKRG GitHub: github.com/CMKRG/QiZhenGPT 
+* 4、刚刚！斯坦福发布 AlpacaFarm (羊驼农场)，可将RLHF人工成本降低45倍！(开源) https://mp.weixin.qq.com/s/CIF2F5Vx_RSN1-LwU_ppOQ \
+《AlpacaFarm: A Simulation Framework for Methods that Learn from Human Feedback》 \
+Paper：https://tatsu-lab.github.io/alpaca_farm_paper.pdf \
+Code：https://github.com/tatsu-lab/alpaca_farm
 
 # 5.25 周4
 * 1、chatPaper https://github.com/kaixindelele/ChatPaper
+* 2、大模型知识Out该怎么办？浙大团队探索大模型参数更新的方法—模型编辑 https://mp.weixin.qq.com/s/Go_lBw77ktHuHz7FsUjY-w \
+![image](https://github.com/shuishenbushui/AICongyin-LLM.github.io/assets/45891944/b8117b05-d35b-4498-95e8-d634146ded0f) \
+论文题目：Editing Large Language Models: Problems, Methods, and Opportunities \
+论文链接：https://arxiv.org/pdf/2305.13172.pdf
+* 3、读脑术！由大脑信号构建高清视频的方法实现啦，Stable Dinfusion还能这么用 https://mp.weixin.qq.com/s/sX0NxL7qQbDSd3H77JzxPw \
+参考资料：
+ [1]https://mind-video.com/ \
+ [2]https://twitter.com/ZijiaoC/status/1660470518569639937 \
+ [3]https://arxiv.org/abs/2305.11675 \
 
 # 5.26 周5
 * 1、ExpertLLaMA:一个使用ExpertPrompting构建的开源聊天机器人，提供了方法简介、52,000个专家数据集样本、52,000个基线数据集样本、52,000个对应每个具体指令的专家身份描述、基于专家数据集训练的ExpertLLaMA检查点以及与Vicuna、LLaMA-GPT4等现有模型的评估结果github.com/OFA-Sys/ExpertLLaMA
@@ -230,8 +244,22 @@ github:https://github.com/ShishirPatil/gorilla \
 # 5.27 周6
 * 1、使用BERT和GPT-2计算句子困惑度PPL ，这个用法可以用来评估数据质量 \
 对应代码地址：https://github.com/xu-song/bert-as-language-model
+* 2、我用GPT搭建了一个虚拟女友！https://mp.weixin.qq.com/s/8eKNKVZuscejT1qSNIJCig \
+1. 作者知乎：https://www.zhihu.com/people/yong-tan-39-67 \
+2.我用GPT搭建了一个虚拟女友-哔哩哔哩：https://b23.tv/GYYwMcq
+* 3、「大一统」大模型论文爆火，4种模态任意输入输出，华人本科生5篇顶会一作，网友：近期最不可思议的论文 https://mp.weixin.qq.com/s/Mg_qnawkYSWnRHk4LIEIsQ
+论文地址：https://arxiv.org/abs/2305.11846 \
+项目地址：https://github.com/microsoft/i-Code/tree/main/i-Code-V3
+* 4、商汤、清华发布通才智能体完全解锁《我的世界》，像人类一样生存，探索和创造 https://mp.weixin.qq.com/s/GCxvEddxsxSTC3U07KdIag \
+"Ghost in the Minecraft"（GITM）\
+项目主页：https://github.com/OpenGVLab/GITM
+* 5、英伟达AI智能体接入GPT-4，完胜AutoGPT！自主写代码独霸我的世界，无需人类插手 https://mp.weixin.qq.com/s/jaUeCl5pSs-sier89MXq1Q \
+论文地址：https://arxiv.org/abs/2305.16291 \
+项目地址：https://voyager.minedojo.org/
 
 # 5.28 周7
 * 1、InstructScore ，An amazing explanation metric (diagnostic report) for text generation evaluation。\
 https://github.com/xu1998hz/SEScore3/
 * 2、《A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models》讨论了未来NLP的可研究方向，汇聚了很多博士生的意见，非常值得读。科研工作者必看！
+* 3、终于 ！中文基座模型CPM-Bee开源了 https://mp.weixin.qq.com/s/BO4cDB9KRSODZw3TvZpUAA
+* 4、哈工大博士历时半年整理的《Pytorch常用函数函数手册》开放下载！内含200余个函数! https://mp.weixin.qq.com/s/qNAHZzOrVx0kyIeN8AWM9g
