@@ -172,6 +172,12 @@ Github: https://github.com/0nutation/SpeechGPT/tree/main \
 * 1、PyLLMs：一个简洁的 Python 库，用于连接各种 LLM(OpenAI、Anthropic、Google、AI21、Cohere、Aleph Alpha、HuggingfaceHub)，内置模型性能基准。非常适合快速原型设计和评估不同模型，具有以下特点：通过少量代码连接顶级 LLM；响应元数据包括处理的Token、成本和延迟，对各个模型进行标准化；支持多模型：同时从不同模型获取补全；LLM 基准：评估模型的质量、速度和成本: github.com/kagisearch/pyllms
 * 2、Redis-LLM-Document-Chat：用LlamaIndex、Redis和OpenAI与PDF文档进行交互，包含一个Jupyter笔记本，演示了如何使用Redis作为向量数据库来存储和检索文档向量，还展示了如何使用LlamaIndex在文档中执行语义搜索: github.com/RedisVentures/LLM-Document-Chat
 * 3、Scikit-LLM: 用于增强文本分析任务的工具，可以无缝地将ChatGPT等强大的语言模型集成到Scikit-Learn中。提供了ZeroShotGPTClassifier类和MultiLabelZeroShotGPTClassifier类，用于进行零样本文本分类和多标签零样本文本分类。: github.com/iryna-kondr/scikit-llm
+* 4、Transformer 估算 本文主要介绍用于估算 transformer 类模型计算量需求和内存需求的相关数学方法。\
+https://mp.weixin.qq.com/s/j8vw9sAdG_Vfh-i0SN9p6Q
+* 5、非常详细！大型自然语言模型（LLM）发展概要，及其关键技术！\
+https://mp.weixin.qq.com/s/RTJndbXsVewHUNtj6T189Q
+* 6、大模型阅读笔记：ChatGLM-6B模型结构组件源码阅读 \
+https://mp.weixin.qq.com/s/bEBrWooUU2MuMt8DwzsDKQ
 
 # 5.21 周7
 * 1、5月20日，马克斯普朗克研究、麻省理工计算机与AI实验室、via-center、宾夕法尼亚大学和谷歌等联合发布了一篇名为《Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold》的论文。根据其Github主页显示，预计6月进行开源。该论文提出了一种控制GAN的新方法 DragGAN，使用户能以无损的方式拖动几下鼠标就能改变图像形态。例如，将一张严肃的脸，拖动几下鼠标就能变成微笑的形态；将一匹站立的马，更改成奔跑形态等。Github地址：https://github.com/XingangPan/DragGAN项目展示：https://vcai.mpi-inf.mpg.de/projects/DragGAN/论文地址：https://arxiv.org/abs/2305.10973
