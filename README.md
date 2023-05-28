@@ -186,7 +186,15 @@ Paper: https://arxiv.org/abs/2212.08320
 Code: https://github.com/RunpeiDong/ACT
 
 # 5.21 周7
-* 1、5月20日，马克斯普朗克研究、麻省理工计算机与AI实验室、via-center、宾夕法尼亚大学和谷歌等联合发布了一篇名为《Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold》的论文。根据其Github主页显示，预计6月进行开源。该论文提出了一种控制GAN的新方法 DragGAN，使用户能以无损的方式拖动几下鼠标就能改变图像形态。例如，将一张严肃的脸，拖动几下鼠标就能变成微笑的形态；将一匹站立的马，更改成奔跑形态等。Github地址：https://github.com/XingangPan/DragGAN项目展示：https://vcai.mpi-inf.mpg.de/projects/DragGAN/论文地址：https://arxiv.org/abs/2305.10973
+* 1、5月20日，马克斯普朗克研究、麻省理工计算机与AI实验室、via-center、宾夕法尼亚大学和谷歌等联合发布了一篇名为《Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold》的论文。根据其Github主页显示，预计6月进行开源。该论文提出了一种控制GAN的新方法 DragGAN，使用户能以无损的方式拖动几下鼠标就能改变图像形态。例如，将一张严肃的脸，拖动几下鼠标就能变成微笑的形态；将一匹站立的马，更改成奔跑形态等。\
+Github地址：https://github.com/XingangPan/DragGAN \
+项目展示：https://vcai.mpi-inf.mpg.de/projects/DragGAN/论文地址：https://arxiv.org/abs/2305.10973 \
+1.dragGAN官方库：https://github.com/XingangPan/DragGAN \
+2.平替方案一项目地址：http://www.cgg.cs.tsukuba.ac.jp/~endo/projects/UserControllableLT/ \
+3.平替方案一论文地址：https://arxiv.org/pdf/2208.12408.pdf \
+4.平替方案一colab版本快速体验仓库：https://github.com/camenduru/UserControllableLT-colab \
+5.平替方案一论文作者的github仓库支持本地部署：https://github.com/endo-yuki-t/UserControllableLT \
+6.平替方案二github大神复现的非官方版仓库体验：https://github.com/Zeqiang-Lai/DragGAN
 
 # 5.22 周1
 * 1、Plug and Plai：简化将AI插件集成到开源语言模型(LLMs)的开源库，提供实用函数来从plugnplai.com目录获取插件列表，获取插件清单，提取OpenAPI规范并加载插件: github.com/edreisMD/plugnplai
