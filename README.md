@@ -142,6 +142,14 @@ Demo 在线试玩：https://detgpt.github.io/
 * 11、ACT-1: Transformer for Actions 一个通用的、能帮助用户在各种软件上完成任务的AI助手 \
 文章链接：https://zhuanlan.zhihu.com/p/565025337 \
 官网：https://www.adept.ai/blog/act-1 
+* 12、GPT充当大脑，指挥多个模型协作完成各类任务，通用系统AutoML-GPT来了 \
+AutoML-GPT 使用 GPT 作为各种 AI 模型之间的桥梁，并用优化过的超参数来动态训练模型。AutoML-GPT 动态地接收来自 Model Card [Mitchell et al., 2019] 和 Data Card [Gebru et al., 2021] 的用户请求，并组成相应的 prompt 段落。最后，AutoML-GPT 借助该 prompt 段落自动进行多项实验，包括处理数据、构建模型架构、调整超参数和预测训练日志。\
+AutoML-GPT 通过最大限度地利用其强大的 NLP 能力和现有的人工智能模型，解决了各种测试和数据集中复杂的 AI 任务。大量实验和消融研究表明，AutoML-GPT 对许多人工智能任务（包括 CV 任务、NLP 任务）是通用的、有效的。\
+论文地址：https://papers.labml.ai/paper/35151be0eb2011edb95839eec3084ddd \
+文章链接：https://mp.weixin.qq.com/s/DGrWcoJv2AQXiL_bNM8z0Q \
+13、6G显存玩转130亿参数大模型，仅需13行命令，RTX2060用户发来贺电\
+文章链接：https://mp.weixin.qq.com/s/hvRVSwlhWKcZFAtl617F5A \
+14、
 
 # 5.19 周5
 * 1、GPT BAT：GPT长文本批处理工具，可以将长文本分隔成小段，然后使用GPT进行处理，并将结果拼接起来以便下载。使用该工具需要选择分隔方式(按行、按长度或按特殊字符)，填写每次调用GPT Chat API的设置，包括系统提示词、用户提示词、最大Token数和模型。: github.com/easychen/gpt-bat
@@ -153,6 +161,12 @@ Demo page: https://0nutation.github.io/SpeechGPT.github.io/ \
 Paper: https://arxiv.org/abs/2305.11000 \
 Github: https://github.com/0nutation/SpeechGPT/tree/main \
 * 4、DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining \
+* 5、谷歌PaLM 2细节曝光：3.6万亿token，3400亿参数 文章链接：https://mp.weixin.qq.com/s/xAhbvd1zo4v91XX3Mrh9jA
+* 6、解释大语言模型：在 Alpaca 中识别因果机制 \
+斯坦福大学的 Alpaca 模型是用于学术研究的指令遵循语言模型（instruction-following language model）。在近日新发表的论文“解释大语言模型：在 Alpaca 中识别因果机制”中，研究者提出一种通用的因果机制发现框架，使用该工具，Alpaca 模型在简单的数字推理任务中实现了具有可解释中间变量的因果模型。这些因果模型对于输入和指令的变化具有鲁棒性。该框架也适用于拥有数十亿参数的大语言模型。
+论文题目：Interpretability at Scale: Identifying Causal Mechanisms in Alpaca\
+论文链接：https://arxiv.org/abs/2305.08809\
+作者：Zhengxuan Wu（吴政璇）, Atticus Geiger, Christopher Potts, Noah Goodman 文章链接：https://mp.weixin.qq.com/s/dWOD7G6is0pvKFbLbWQhfg
 
 # 5.20 周6
 * 1、PyLLMs：一个简洁的 Python 库，用于连接各种 LLM(OpenAI、Anthropic、Google、AI21、Cohere、Aleph Alpha、HuggingfaceHub)，内置模型性能基准。非常适合快速原型设计和评估不同模型，具有以下特点：通过少量代码连接顶级 LLM；响应元数据包括处理的Token、成本和延迟，对各个模型进行标准化；支持多模型：同时从不同模型获取补全；LLM 基准：评估模型的质量、速度和成本: github.com/kagisearch/pyllms
