@@ -164,14 +164,35 @@ Github: https://github.com/0nutation/SpeechGPT/tree/main \
 
 # 5.22 周1
 * 1、Plug and Plai：简化将AI插件集成到开源语言模型(LLMs)的开源库，提供实用函数来从plugnplai.com目录获取插件列表，获取插件清单，提取OpenAPI规范并加载插件: github.com/edreisMD/plugnplai
-* 2、大模型与联邦学习 《Towards Building the Federated GPT: Federated Instruction Tuning》论文
 
 # 5.23 周2
+* 1、大模型与联邦学习 《Towards Building the Federated GPT: Federated Instruction Tuning》论文
 
 # 5.24 周3
+* 1、斯坦福transformer课程 https://web.stanford.edu/class/cs25/
+* 2、https://github.com/w-okada/voice-changer 实时变声器
+* 3、启真医学大模型：利用启真医学知识库构建的中文医学指令数据集，并基于此在LLaMA-7B模型上进行指令精调：An Open Source Chinese Medical Large Language Model' CMKRG GitHub: github.com/CMKRG/QiZhenGPT 
 
 # 5.25 周4
+* 1、chatPaper https://github.com/kaixindelele/ChatPaper
 
 # 5.26 周5
+* 1、ExpertLLaMA:一个使用ExpertPrompting构建的开源聊天机器人，提供了方法简介、52,000个专家数据集样本、52,000个基线数据集样本、52,000个对应每个具体指令的专家身份描述、基于专家数据集训练的ExpertLLaMA检查点以及与Vicuna、LLaMA-GPT4等现有模型的评估结果github.com/OFA-Sys/ExpertLLaMA
+* 2、一个在线的代码生成器，输入自然语言，自动生成代码
+网址： www.programming-helper.com/generate-function
+* 3、Gorilla: 一个基于LLaMA，为调用API而微调的模型。 \
+论文地址：arxiv.org/abs/2305.15334 \
+项目地址：gorilla.cs.berkeley.edu \
+github:https://github.com/ShishirPatil/gorilla \
+![070bb064801d2b5cb9f952a7e3d1549](https://github.com/shuishenbushui/AICongyin-LLM.github.io/assets/45891944/a4743fff-afb3-43f8-8273-aeb244228c76)
+* 4、《“According to ...” Prompting Language Models Improves Quoting from Pre-Training Data》 引导LLM根据先前观察到的文本来回答问题
+![4a1bdf4c8bf922b641ee44c62c6a3a0](https://github.com/shuishenbushui/AICongyin-LLM.github.io/assets/45891944/12359e74-30c7-4a0a-857b-937a8f015be0)
 
 # 5.27 周6
+* 1、使用BERT和GPT-2计算句子困惑度PPL ，这个用法可以用来评估数据质量 \
+对应代码地址：https://github.com/xu-song/bert-as-language-model
+
+# 5.28 周7
+* 1、InstructScore ，An amazing explanation metric (diagnostic report) for text generation evaluation。\
+https://github.com/xu1998hz/SEScore3/
+* 2、《A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models》讨论了未来NLP的可研究方向，汇聚了很多博士生的意见，非常值得读。科研工作者必看！
