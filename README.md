@@ -185,7 +185,7 @@ Github: https://github.com/0nutation/SpeechGPT/tree/main \
 项目地址：gorilla.cs.berkeley.edu \
 github:https://github.com/ShishirPatil/gorilla \
 ![070bb064801d2b5cb9f952a7e3d1549](https://github.com/shuishenbushui/AICongyin-LLM.github.io/assets/45891944/a4743fff-afb3-43f8-8273-aeb244228c76)
-* 4、《“According to ...” Prompting Language Models Improves Quoting from Pre-Training Data》 引导LLM根据先前观察到的文本来回答问题
+* 4、《“According to ...” Prompting Language Models Improves Quoting from Pre-Training Data》 引导LLM根据先前观察到的文本来回答问题 \
 ![4a1bdf4c8bf922b641ee44c62c6a3a0](https://github.com/shuishenbushui/AICongyin-LLM.github.io/assets/45891944/12359e74-30c7-4a0a-857b-937a8f015be0)
 
 # 5.27 周6
