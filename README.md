@@ -142,3 +142,36 @@ Demo 在线试玩：https://detgpt.github.io/
 * 11、ACT-1: Transformer for Actions 一个通用的、能帮助用户在各种软件上完成任务的AI助手 \
 文章链接：https://zhuanlan.zhihu.com/p/565025337 \
 官网：https://www.adept.ai/blog/act-1 
+
+# 5.19 周5
+* 1、GPT BAT：GPT长文本批处理工具，可以将长文本分隔成小段，然后使用GPT进行处理，并将结果拼接起来以便下载。使用该工具需要选择分隔方式(按行、按长度或按特殊字符)，填写每次调用GPT Chat API的设置，包括系统提示词、用户提示词、最大Token数和模型。: github.com/easychen/gpt-bat
+* 2、Chinese-CLIP \
+地址：github.com/OFA-Sys/Chinese-CLIP \
+本项目为CLIP模型的中文版本，使用大规模中文数据进行训练（~2亿图文对），旨在帮助用户快速实现中文领域的图文特征&相似度计算、跨模态检索、零样本图片分类等任务。
+* 3、目前的多模态大语言模型多采用外接一个其它模态的编码器。但是这离AGI还有一定的距离，我们提出了SpeechGPT，它具有内生的跨模态能力，是第一个既能接受跨模态输入，也能产生跨模态输出的大语言模型。SpeechGPT突破了传统语音到语音对话cascaded system (ASR+LLM+TTS) 的束缚，实现了模态之间的知识传递，不需要额外的ASR和TTS系统也能和LLM直接进行语音对话。 我们利用语音离散表示来统一了语音和文本的符号表示，通过扩充LLM词表的方式自然地把语音模态集成到LLM之中。并且构造了第一个语音-文本跨模态指令微调数据集SpeechInstruct，经过modality-adaptation pre- training, cross-modal instruction fine-tuning, chain-of-modality instruction fine-tuning三阶段的训练，使得模型具有不错的跨模态指令遵循能力和语音到语音对话的能力。在我Demo page里，我们展示了SpeechGPT可以充当会说话的百科全书，生活助手，闲聊伙伴，诗人，心理医生，学习助手等等。。。 SpeechGPT为打造真正的多模态大语言模型指明了方向：将不同模态的数据（视觉，语音等）统一表示为离散单元集成在LLM之中，在跨模态数据集上经过预训练和指令微调，来使得模型具有多模态理解和生成的能力，从而离AGI更进一步。 \
+Demo page: https://0nutation.github.io/SpeechGPT.github.io/ \
+Paper: https://arxiv.org/abs/2305.11000 \
+Github: https://github.com/0nutation/SpeechGPT/tree/main \
+* 4、DoReMi: Optimizing Data Mixtures Speeds Up Language Model Pretraining \
+
+# 5.20 周6
+* 1、PyLLMs：一个简洁的 Python 库，用于连接各种 LLM(OpenAI、Anthropic、Google、AI21、Cohere、Aleph Alpha、HuggingfaceHub)，内置模型性能基准。非常适合快速原型设计和评估不同模型，具有以下特点：通过少量代码连接顶级 LLM；响应元数据包括处理的Token、成本和延迟，对各个模型进行标准化；支持多模型：同时从不同模型获取补全；LLM 基准：评估模型的质量、速度和成本: github.com/kagisearch/pyllms
+* 2、Redis-LLM-Document-Chat：用LlamaIndex、Redis和OpenAI与PDF文档进行交互，包含一个Jupyter笔记本，演示了如何使用Redis作为向量数据库来存储和检索文档向量，还展示了如何使用LlamaIndex在文档中执行语义搜索: github.com/RedisVentures/LLM-Document-Chat
+* 3、Scikit-LLM: 用于增强文本分析任务的工具，可以无缝地将ChatGPT等强大的语言模型集成到Scikit-Learn中。提供了ZeroShotGPTClassifier类和MultiLabelZeroShotGPTClassifier类，用于进行零样本文本分类和多标签零样本文本分类。: github.com/iryna-kondr/scikit-llm
+
+# 5.21 周7
+* 1、5月20日，马克斯普朗克研究、麻省理工计算机与AI实验室、via-center、宾夕法尼亚大学和谷歌等联合发布了一篇名为《Drag Your GAN: Interactive Point-based Manipulation on the Generative Image Manifold》的论文。根据其Github主页显示，预计6月进行开源。该论文提出了一种控制GAN的新方法 DragGAN，使用户能以无损的方式拖动几下鼠标就能改变图像形态。例如，将一张严肃的脸，拖动几下鼠标就能变成微笑的形态；将一匹站立的马，更改成奔跑形态等。Github地址：https://github.com/XingangPan/DragGAN项目展示：https://vcai.mpi-inf.mpg.de/projects/DragGAN/论文地址：https://arxiv.org/abs/2305.10973
+
+# 5.22 周1
+* 1、Plug and Plai：简化将AI插件集成到开源语言模型(LLMs)的开源库，提供实用函数来从plugnplai.com目录获取插件列表，获取插件清单，提取OpenAPI规范并加载插件: github.com/edreisMD/plugnplai
+* 2、大模型与联邦学习 《Towards Building the Federated GPT: Federated Instruction Tuning》论文
+
+# 5.23 周2
+
+# 5.24 周3
+
+# 5.25 周4
+
+# 5.26 周5
+
+# 5.27 周6
