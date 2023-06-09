@@ -296,6 +296,10 @@ Code: https://github.com/MCG-NJU/MixFormerV2
 项目地址：https://github.com/ctlllll/LLM-ToolMaker
 * 3、20+篇里程碑式论文，带你从「Transformer的前世」速通到ChatGPT  https://mp.weixin.qq.com/s/ruNXOpr-EtVBAAOEybuXKQ
 * 4、比Transformer快4成！Meta发布全新Megabyte模型，解决算力损耗硬伤 https://mp.weixin.qq.com/s/ROJOhIXEKz1cbBB7xxV8Jg
+* 5、训练时间减少71.4%，存储成本节省99.9%，厦大指令调优新方案MMA让羊驼模型实现多模态 https://mp.weixin.qq.com/s/MRLYk1b7VJ_b6OmJ9mzkdw \
+![image](https://github.com/shuishenbushui/AICongyin-LLM.github.io/assets/45891944/a5a95eb5-118d-466d-a6e2-64bdda5207d2)
+论文地址：https://arxiv.org/pdf/2305.15023.pdf \
+项目地址：https://github.com/luogen1996/LaVIN
 
 # 5.31 周3
 * 1、《ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation》： 文本生成3D模型 \
