@@ -271,3 +271,22 @@ https://github.com/xu1998hz/SEScore3/
 * 2、《A PhD Student's Perspective on Research in NLP in the Era of Very Large Language Models》讨论了未来NLP的可研究方向，汇聚了很多博士生的意见，非常值得读。科研工作者必看！
 * 3、终于 ！中文基座模型CPM-Bee开源了 https://mp.weixin.qq.com/s/BO4cDB9KRSODZw3TvZpUAA
 * 4、哈工大博士历时半年整理的《Pytorch常用函数函数手册》开放下载！内含200余个函数! https://mp.weixin.qq.com/s/qNAHZzOrVx0kyIeN8AWM9g
+
+# 5.29 周1
+* 1、重新聚焦Attention在微调大模型中的重要性 https://mp.weixin.qq.com/s/g-j_pBRhLUVyoPt5jq6MPA \
+我们发现在一个下游任务上微调大模型时，目前的方法（fine-tuning，LoRA，prompt tuning等等）往往无法将模型的attention聚焦在和下游任务相关的信息上。\
+论文链接：https://arxiv.org/pdf/2305.15542 Refocusing is Key to Transfer Learning \
+GitHub链接：https://github.com/bfshi/TOAST
+* 2、比Adam快2倍！斯坦福提出Sophia：大模型预训练新优化器，成本减半！ https://mp.weixin.qq.com/s/b78xMSVVp03L5zQkiOoW_A \
+
+# 5.30 周2
+* 1、代码大模型综述：中科院和MSRA调研27个LLMs，并给出5个有趣挑战 \
+论文标题：Large Language Models Meet NL2Code: A Survey \
+论文链接：https://arxiv.org/abs/2212.09420 \
+实时网站：https://nl2code.github.io
+
+# 5.31 周3
+* 1、《ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation》： 文本生成3D模型 \
+论文链接：https://arxiv.org/abs/2305.16213 \
+项目主页：https://ml.cs.tsinghua.edu.cn/prolificdreamer/
+
