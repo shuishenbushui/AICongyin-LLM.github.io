@@ -278,12 +278,24 @@ https://github.com/xu1998hz/SEScore3/
 论文链接：https://arxiv.org/pdf/2305.15542 Refocusing is Key to Transfer Learning \
 GitHub链接：https://github.com/bfshi/TOAST
 * 2、比Adam快2倍！斯坦福提出Sophia：大模型预训练新优化器，成本减半！ https://mp.weixin.qq.com/s/b78xMSVVp03L5zQkiOoW_A \
+* 3、南大王利民团队新作 | MixFormerV2: 首个基于ViT并在CPU设备实时运行的目标跟踪器！ https://mp.weixin.qq.com/s/-XhcAkTWjd7cxwsYGY0V4g \
+![image](https://github.com/shuishenbushui/AICongyin-LLM.github.io/assets/45891944/d82aa694-be61-4e95-9ba1-0ae78e081fa4)
+Title: MixFormerV2: Efficient Fully Transformer Tracking \
+Paper: https://arxiv.org/pdf/2305.15896.pdf \
+Code: https://github.com/MCG-NJU/MixFormerV2 
 
 # 5.30 周2
 * 1、代码大模型综述：中科院和MSRA调研27个LLMs，并给出5个有趣挑战 \
 论文标题：Large Language Models Meet NL2Code: A Survey \
 论文链接：https://arxiv.org/abs/2212.09420 \
 实时网站：https://nl2code.github.io
+* 2、GPT-3.5逆袭GPT-4！谷歌DeepMind华人天团，让LLM像人类一样制作工具，完胜CoT https://mp.weixin.qq.com/s/w51k5OSGCTsCbKEjnd5Tuw \
+让LLM可以通过程序的形式，制作并使用全新的工具（能重复使用的那种）。简单来说，就是让一个LLM作为工具制造者制作新工具，另一个LLM作为工具使用者，使用工具来解决新问题。\
+![image](https://github.com/shuishenbushui/AICongyin-LLM.github.io/assets/45891944/0ba7df36-d80e-4c8b-94a6-4c1d69f0d222)
+论文地址：https://arxiv.org/abs/2305.17126 \
+项目地址：https://github.com/ctlllll/LLM-ToolMaker
+* 3、20+篇里程碑式论文，带你从「Transformer的前世」速通到ChatGPT  https://mp.weixin.qq.com/s/ruNXOpr-EtVBAAOEybuXKQ
+* 4、比Transformer快4成！Meta发布全新Megabyte模型，解决算力损耗硬伤 https://mp.weixin.qq.com/s/ROJOhIXEKz1cbBB7xxV8Jg
 
 # 5.31 周3
 * 1、《ProlificDreamer: High-Fidelity and Diverse Text-to-3D Generation with Variational Score Distillation》： 文本生成3D模型 \
